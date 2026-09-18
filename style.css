@@ -83,7 +83,7 @@ body::before {
   height: 50px;
   width: 100%;
   color: #fff;
-  background-color: #e50914;
+  background-color: #7b2ff7;
   border-radius: 3px;
   font-size: 16px;
   border: none;
@@ -91,7 +91,7 @@ body::before {
 }
 
 .login_body button:hover {
-  background-color: #fc1722;
+  background-color: #9a55ff;
   cursor: pointer;
 
 }
